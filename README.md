@@ -32,7 +32,6 @@ To perform churn analysis you need to do the following.
 _Step 1_: Invest in subscription analytics (tools).
 
 _Step 2_: Analyze customers by segment.
-   - Analyze customers by segment
    - Churn analysis by revenue
    - Churn analysis by industry
    - Churn analysis by geography 
