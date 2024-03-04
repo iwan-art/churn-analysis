@@ -45,10 +45,6 @@ _**Source**_:
 
 https://www.chargebee.com/blog/reduce-customer-churn/
 
-https://www.kaggle.com/code/kashnitsky/topic-1-exploratory-data-analysis-with-pandas
-
-https://www.kaggle.com/code/kashnitsky/topic-2-visual-data-analysis-in-python
-
 https://www.kaggle.com/code/ahmedshahriarsakib/churn-prediction-i-eda-statistical-analysis
 
 https://www.youtube.com/watch?v=xvm1unrvIoQ&ab_channel=ShubhamOli
